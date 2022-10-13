@@ -1,0 +1,12 @@
+access-credentials:
+  user: icinga
+  password: C4lc3t1n
+
+carrefour-dev:
+  host: ld6mk01.es.wcorp.carrefour.com
+
+carrefour-cua:
+  host: lc6mk01.es.wcorp.carrefour.com
+
+carrefour-pro:
+  host: lp6mk01.es.wcorp.carrefour.com

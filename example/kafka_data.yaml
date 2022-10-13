@@ -1,0 +1,24 @@
+# Use 'internal kafka send' to run this example.
+
+# Data can be organized in groups (just for organization purposes).
+example-data:
+  name: John
+  lastname: Doe
+  gender: Male
+  location: New York
+  age: 25
+  email: john@example.com
+  ip_address: 121.182.15.111
+  browser: Chrome
+  os: Windows
+
+# Writing the data directly in the root is also possible.
+name: Jane
+lastname: Doe
+gender: Female
+location: London
+age: 24
+email: jane@example.com
+ip_address: 121.182.15.111
+browser: Chrome
+os: iOS
